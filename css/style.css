@@ -1,0 +1,48 @@
+.service-box{
+  position: relative;
+}
+.a-over {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+ .feature-image {
+	background-image: url(../img/service-icons.png);
+	background-repeat: no-repeat;
+	display: block;
+	width: 170px;
+	height: 170px;
+	margin: 10px auto;
+}
+.service-3 {
+    background-position: -345px -515px;
+}
+.service-4 {
+    background-position: -515px -515px;
+}
+.service-8 {
+    background-position: -685px -515px;
+}
+.service-13 {
+    background-position: -5px -175px;
+}
+.service-16 {
+    background-position: -515px -175px;
+}
+.service-17 {
+    background-position: -5px -345px;
+}
+.service-18 {
+    background-position: -175px -345px;
+}
+.service-19 {
+    background-position: -345px -345px;
+}
+.service-20 {
+    background-position: -5px -515px;
+}
+.service-21 {
+    background-position: -175px -515px;
+}
